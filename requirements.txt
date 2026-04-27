@@ -1,5 +1,9 @@
 # TradingAgents Web App Dependencies
 
+# Install tradingagents package from the repository
+# This ensures the package itself is installed along with its dependencies
+.
+
 # Streamlit for web interface
 streamlit>=1.30.0
 
